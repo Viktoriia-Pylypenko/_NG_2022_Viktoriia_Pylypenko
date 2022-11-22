@@ -66,7 +66,7 @@ def outputResult():
         case "6":
             return outputResult()
         case "7":
-            return print("Error.")
+            return print("Exit.")
         case _:
             print("Sorry, error.")
 
